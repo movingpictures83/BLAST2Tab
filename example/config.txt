@@ -1,0 +1,2 @@
+Prefix plugins/BLASTParse/example
+Plugin BLASTParse inputfile BLASToutput.txt outputfile BLASToutput.txt.sum
