@@ -1,2 +1,2 @@
-Prefix plugins/BLASTParse/example
-Plugin BLASTParse inputfile BLASToutput.txt outputfile BLASToutput.txt.sum
+Prefix plugins/BLAST2Tab/example
+Plugin BLAST2Tab inputfile BLASToutput.txt outputfile BLASToutput.txt.sum

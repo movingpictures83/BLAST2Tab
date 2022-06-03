@@ -1,4 +1,4 @@
-# BLASTParse
+# BLAST2Tab
 # Language: Perl
 # Input: TXT
 # Output: TXT
